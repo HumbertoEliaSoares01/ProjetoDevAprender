@@ -9,3 +9,5 @@ pra mudar de branch.
 Da linha acima pra baixo, incluindo agora, as linhas que só estavam na "branch staging", apareceram tambem na "branch master", porque vou usar o "merge".
     "git checkout master"
     git merge 
+
+tentando novamente
