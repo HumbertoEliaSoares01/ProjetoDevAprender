@@ -1,1 +1,6 @@
 Olá, meu nome é Humberto.
+Acredito que dessa linha pra baixo, as alterações feitas no documento "meu codigo.txt" aparecerão apenas na branch staging que foi criada com o comando 
+    "git branch staging"
+e depois
+    "git checkout staging"
+pra mudar de branch.
