@@ -4,3 +4,8 @@ Acredito que dessa linha pra baixo, as alterações feitas no documento "meu cod
 e depois
     "git checkout staging"
 pra mudar de branch.
+
+*Deu certo* 
+Da linha acima pra baixo, incluindo agora, as linhas que só estavam na "branch staging", apareceram tambem na "branch master", porque vou usar o "merge".
+    "git checkout master"
+    git merge 
