@@ -1,4 +1,5 @@
 Olá, meu nome é Humberto.
+<<<<<<< HEAD
 Acredito que dessa linha pra baixo, as alterações feitas no documento "meu codigo.txt" aparecerão apenas na branch staging que foi criada com o comando 
     "git branch staging"
 e depois
@@ -9,3 +10,7 @@ pra mudar de branch.
 Da linha acima pra baixo, incluindo agora, as linhas que só estavam na "branch staging", apareceram tambem na "branch master", porque vou usar o "merge".
     "git checkout master"
     git merge 
+=======
+Olá, eu sou uma nova linha.
+mais uma linha.
+>>>>>>> 7d1560c306e4e42bad0ac48b8f9c55050f083b1d
